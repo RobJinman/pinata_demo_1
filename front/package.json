@@ -22,7 +22,7 @@
     "jasmine": "^3.4.0",
     "jasmine-spec-reporter": "^4.2.1",
     "jasmine-ts": "^0.3.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "sass": "^1.22.12",
     "sass-loader": "^8.0.0",
     "source-map-loader": "^0.2.4",
